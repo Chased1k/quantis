@@ -40,7 +40,7 @@ Alias Address Privkey TxHash Output_index
 ```
 tobad getinfo
 tobad masternode status
-toba mnsync status
+tobad mnsync status
 ```
 Also, if you want to check/start/stop **toba** , run one of the following commands as **root**:
 ```
