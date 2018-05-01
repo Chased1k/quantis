@@ -51,11 +51,11 @@ systemctl is-enabled quantisd #To check whetether quantis service is enabled on 
 ```
 
 
-## Donations: 
+## Donations:  
 
-Any donation is highly appreciated. 
+Any donation is highly appreciated.  
 
-**QUAN**: QbaEARAuTuPxDEvCT8EyMUiuCyNMqZwpjw 
-**BCH**: qzgsarlyahpdemyapkm0mlurwwnmjsjznvmxm85e4y 
-**ETH**: 0xA78901Aed64d92360917222d7dC2697a4AD0D608 
-**LTC**: LYx9AEcYLh2xyz1G4ER4tQCw24FyXfbdC6 
+**QUAN**: QbaEARAuTuPxDEvCT8EyMUiuCyNMqZwpjw  
+**BCH**: qzgsarlyahpdemyapkm0mlurwwnmjsjznvmxm85e4y  
+**ETH**: 0xA78901Aed64d92360917222d7dC2697a4AD0D608  
+**LTC**: LYx9AEcYLh2xyz1G4ER4tQCw24FyXfbdC6  
