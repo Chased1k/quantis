@@ -1,15 +1,15 @@
 #!/bin/bash
 
 TMP_FOLDER=$(mktemp -d)
-CONFIG_FILE='toba.conf'
-CONFIGFOLDER='/root/.toba'
-COIN_DAEMON='tobad'
-COIN_CLI='tobad'
+CONFIG_FILE='quantis.conf'
+CONFIGFOLDER='/root/.quantis'
+COIN_DAEMON='quantisd'
+COIN_CLI='quantisd'
 COIN_PATH='/usr/local/bin/'
-COIN_TGZ='https://github.com/Realbityoda/toba/releases/download/toba/toba.tar.gz'
+COIN_TGZ='https://github.com/Chased1k/Quantis-public/raw/master/quantisd.tar.gz'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
-COIN_NAME='toba'
-COIN_PORT=22445
+COIN_NAME='quantis'
+COIN_PORT=5050
 
 
 NODEIP=$(curl -s4 icanhazip.com)
