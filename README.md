@@ -5,7 +5,7 @@ This script will install **quantis v1.0**.
 
 ## Installation:
 ```
-wget -q https://raw.githubusercontent.com/Realbityoda/quantis/master/quantis_install.sh
+wget -q https://raw.githubusercontent.com/Chased1k/quantis/master/quantis_install.sh
 bash quantis_install.sh
 ```
 ***
