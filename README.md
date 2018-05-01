@@ -15,7 +15,7 @@ bash quantis_install.sh
 After the MN is up and running, you need to configure the desktop wallet accordingly. Here are the steps for Windows Wallet
 1. Open the quantis Core Wallet.
 2. Go to RECEIVE and create a New Address: **MN1**
-3. Send **50000** **quantis** to **MN1**.
+3. Send **5000** **QUAN** to **MN1**.
 4. Wait for 15 confirmations.
 5. Go to **Tools -> "Debug console - Console"**
 6. Type the following command: **masternode outputs**
@@ -51,11 +51,11 @@ systemctl is-enabled quantisd #To check whetether quantis service is enabled on 
 ```
 
 
-## Donations:  
+## Donations: 
 
-Any donation is highly appreciated.  
+Any donation is highly appreciated. 
 
-**QUAN**:  TT9XTjHzs74F5ZwBovXtVyotRRMmBynfga  
-**BCH**: qzgnck23pwfag8ucz2f0vf0j5skshtuql5hmwwjhds  
-**ETH**: 0x765eA1753A1eB7b12500499405e811f4d5164554  
-**LTC**: LNt9EQputZK8djTSZyR3jE72o7NXNrb4aB
+**QUAN**: QbaEARAuTuPxDEvCT8EyMUiuCyNMqZwpjw 
+**BCH**: qzgsarlyahpdemyapkm0mlurwwnmjsjznvmxm85e4y 
+**ETH**: 0xA78901Aed64d92360917222d7dC2697a4AD0D608 
+**LTC**: LYx9AEcYLh2xyz1G4ER4tQCw24FyXfbdC6 
