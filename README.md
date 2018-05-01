@@ -2,7 +2,9 @@
 Shell script to install a [Quantis Masternode](http://quantis.network/) on a Linux server running Ubuntu 16.04.  
 This script will install **quantis v1.0**.
 ***
-
+# Vultr VPS Recommended
+[Believe Me, I have Tried Everything. Click Here for Vultr](https://www.vultr.com/?ref=7410771)
+***
 ## Installation:
 ```
 wget -q https://raw.githubusercontent.com/Chased1k/quantis/master/quantis_install.sh
